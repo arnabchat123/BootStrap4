@@ -1,0 +1,27 @@
+body{
+    background: rebeccapurple;
+}
+
+@media (min-width: 576px) { 
+    body{
+        background: whitesmoke
+    }
+ }
+
+
+@media (min-width: 768px) {  
+    body{
+    background: greenyellow;
+} }
+
+
+@media (min-width: 992px) { 
+    body{
+    background: red;
+} }
+
+
+@media (min-width: 1200px) { 
+     body{
+    background: purple;
+} }
